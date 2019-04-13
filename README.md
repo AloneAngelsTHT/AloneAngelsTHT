@@ -1,0 +1,2 @@
+# AloneAngelsTHT
+Python Proje Ödevleri
